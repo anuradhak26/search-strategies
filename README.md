@@ -1,8 +1,9 @@
 # Search Strategies
 Implement and compare different search strategies. This project compares different uninformed and informed search strategies.  
 
-Uninformed search strategies | bfs, dfs, iddfs, unicost 
+Search Strategy Type | Algorithms that fall in this category
 ---|---
+Uninformed search strategies | bfs, dfs, iddfs, unicost 
 Informed search strategies   | greedy, astar, idastar
 
 These search alogorithms are compared by solving these 3 puzzles i.e. the water jug, path-planning and pancakes. 
